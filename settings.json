@@ -47,5 +47,5 @@
     "terminal.integrated.shellArgs.windows": [
         "/k",
         "C:\\PROGRA~1\\cmder\\vendor\\bin\\vscode_init.cmd"
-    ],
+    ]
 }
