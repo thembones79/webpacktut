@@ -1,0 +1,51 @@
+{
+    "git.confirmSync": false,
+    "git.enableSmartCommit": true,
+    "files.autoSave": "off",
+    "gitlens.advanced.messages": {
+        "suppressShowKeyBindingsNotice": true
+    },
+    "materialTheme.fixIconsRunning": false,
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "One Dark Pro Bold",
+    "explorer.confirmDelete": false,
+    "terminal.integrated.rendererType": "dom",
+    "editor.fontFamily": "'Cascadia Code' ",
+    "terminal.integrated.fontFamily": "hack",
+    "editor.fontLigatures": true,
+    "terminal.integrated.enableBell": true,
+    "code-runner.runInTerminal": true,
+    "terminal.integrated.fontSize": 12,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "workbench.iconTheme": "material-icon-theme",
+    "trailing-spaces.trimOnSave": true,
+    "jetbrainsKeymap.promptV3Features": true,
+    "editor.formatOnPaste": true,
+    "sync.gist": "c6f9b41275e97eb92b8c5609a5b0e3f7",
+    "window.zoomLevel": -1,
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[html]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.minimap.enabled": false,
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "vsicons.dontShowNewVersionMessage": true,
+    "[json]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.cursorBlinking": "expand",
+    "terminal.explorerKind": "external",
+
+    "terminal.integrated.shell.windows": "cmd.exe",
+    "terminal.integrated.env.windows": {
+        "CMDER_ROOT": "C:\\PROGRA~1\\cmder"
+    },
+    "terminal.integrated.shellArgs.windows": [
+        "/k",
+        "C:\\PROGRA~1\\cmder\\vendor\\bin\\vscode_init.cmd"
+    ],
+}
